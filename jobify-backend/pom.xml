@@ -147,6 +147,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>jobify-web</finalName>
     </build>
 
 </project>
